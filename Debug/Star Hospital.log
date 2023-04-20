@@ -1,0 +1,6 @@
+﻿  Star Hospital.cpp
+C:\Users\itxus\source\repos\Star Hospital\Star Hospital\Star Hospital.cpp(188,17): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\itxus\source\repos\Star Hospital\Star Hospital\Star Hospital.cpp(432,21): warning C4101: 'success': unreferenced local variable
+C:\Users\itxus\source\repos\Star Hospital\Star Hospital\Star Hospital.cpp(129): warning C4715: 'linkedqueue::search': not all control paths return a value
+C:\Users\itxus\source\repos\Star Hospital\Star Hospital\Star Hospital.cpp(505): warning C4715: 'linkedqueue2::search2': not all control paths return a value
+  Star Hospital.vcxproj -> C:\Users\itxus\source\repos\Star Hospital\Debug\Star Hospital.exe
