@@ -1,26 +1,17 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~Header files (LIBRARIES)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#include<iostream>
+#include<conio.h>
+#include<stdio.h>
+#include"string"
+#include<cstring>
+#include<string.h>
+#include<windows.h>
+
+using namespace std;
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PATIENT CLASS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
-class patient
-{
-public:
-    long long ID;
-    string firstname;
-    string lastname;
-    int age;
-    char blood[5];
-    char gender[20];
-    string disease;
-    double medamount;
-    double surgeryamount;
-    double registrationamount;
-    double leftamount;
-    double advance;
-    double totalamount;
-    patient* next;
-};
 
 
 
