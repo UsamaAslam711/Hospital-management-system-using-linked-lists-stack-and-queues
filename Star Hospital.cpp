@@ -1,14 +1,5 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~Header files (LIBRARIES)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#include<iostream>
-#include<conio.h>
-#include<stdio.h>
-#include"string"
-#include<cstring>
-#include<string.h>
-#include<windows.h>
-
-using namespace std;
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PATIENT CLASS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
