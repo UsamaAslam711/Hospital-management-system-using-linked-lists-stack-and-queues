@@ -13,6 +13,24 @@ using namespace std;
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PATIENT CLASS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
 
+class patient
+{
+public:
+    long long ID;
+    string firstname;
+    string lastname;
+    int age;
+    char blood[5];
+    char gender[20];
+    string disease;
+    double medamount;
+    double surgeryamount;
+    double registrationamount;
+    double leftamount;
+    double advance;
+    double totalamount;
+    patient* next;
+};
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~LINKED LIST OF PATIENT~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
